@@ -1,0 +1,54 @@
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.Properties.Resources.resources
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.csproj.GenerateResource.cache
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.csproj.CoreCompileInputs.cache
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.Form1.resources
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.FormDashBoard.resources
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.FormErrorHandle.resources
+D:\AK47API\KMPS\KMPS\KMPS\bin\Debug\KMPS.exe.config
+D:\AK47API\KMPS\KMPS\KMPS\bin\Debug\KMPS.exe
+D:\AK47API\KMPS\KMPS\KMPS\bin\Debug\KMPS.pdb
+D:\AK47API\KMPS\KMPS\KMPS\bin\Debug\FontAwesome.Sharp.dll
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.csproj.CopyComplete
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.exe
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.pdb
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.csprojAssemblyReference.cache
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.Login.resources
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.FormMemberDelete.resources
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.FormMPPDelete.resources
+D:\AK47API\KMPS\KMPS\KMPS\obj\Debug\KMPS.Sync.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\bin\Debug\KMPS.exe.config
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\bin\Debug\KMPS.exe
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\bin\Debug\KMPS.pdb
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.csproj.AssemblyReference.cache
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.Form1.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.FormDashBoard.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.FormErrorHandle.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.FormMemberDelete.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.FormMPPDelete.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.Login.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.Properties.Resources.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.Sync.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.csproj.GenerateResource.cache
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.csproj.CoreCompileInputs.cache
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.csproj.CopyComplete
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.exe
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\KMPS\obj\Debug\KMPS.pdb
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\bin\Debug\KMPS.exe.config
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\bin\Debug\KMPS.exe
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\bin\Debug\KMPS.pdb
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.csproj.AssemblyReference.cache
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.Form1.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.FormDashBoard.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.FormErrorHandle.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.FormMemberDelete.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.FormMPPDelete.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.Login.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.Properties.Resources.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.Sync.resources
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.csproj.GenerateResource.cache
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.csproj.CoreCompileInputs.cache
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.csproj.CopyComplete
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.exe
+C:\Users\KANHA\Desktop\KANHA\Desktop Application\KMPS\obj\Debug\KMPS.pdb
